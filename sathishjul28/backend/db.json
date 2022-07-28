@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "sathish",
+      "address": "chennai"
+    },
+    {
+      "id": "2",
+      "name": "vicky",
+      "address": "coimbatore"
+    },
+    {
+      "id": "5",
+      "name": "tamil",
+      "address": "erode"
+    },
+    {
+      "id": "3",
+      "name": "pasupathi",
+      "address": "tirupur"
+    },
+    {
+      "id": "4",
+      "name": "Rajesh",
+      "address": "tiruchy"
+    }
+  ]
+}
